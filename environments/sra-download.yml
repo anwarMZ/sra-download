@@ -1,0 +1,6 @@
+name: sra-download
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - sra-tools
